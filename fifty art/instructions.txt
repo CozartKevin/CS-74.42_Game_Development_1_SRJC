@@ -1,0 +1,8 @@
+the zip has the player, enemy, chicken, and muzzleflash all in strip and gif form, theres a bullet sprite I didnt think needed to be animated, and the enemies are obviously less done than the player, but I included feathers and a chicken head for particles upon chicken explosion if you're into such a thing
+.50AE: theres also the collision mask which will work with both the player and enemy, not exact but will work for either direction
+.50AE: and the individual sheets have grids attached so if something gets misaligned somehow you can fix it with those
+.50AE: also a color guide for the big sheets because theyre slightly confusing, blue is run cycle along the row, not column
+.50AE: orange is idle animations and purple is the jumping frame, decided to skip actual animation since itll be airborn
+.50AE: I also flipped everything for you, including putting the animations in the right frame which mirroring breaks and reverses so you dont need to worry about that
+-Raggdoll: Damn son
+-Raggdoll: you went above and beyond
