@@ -1,0 +1,46 @@
+{ "height":100,
+ "layers":[
+        {
+         "compression":"zlib",
+         "data":"eJztw0ENADAIBDB8YGM25t8OJvZguTZpFQAAL3X4bU74bW54AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD+MFwiJwE=",
+         "encoding":"base64",
+         "height":100,
+         "name":"Tile Layer 1",
+         "offsetx":0,
+         "offsety":180,
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":100,
+         "x":0,
+         "y":0
+        }],
+ "nextobjectid":6,
+ "orientation":"orthogonal",
+ "properties":
+    {
+
+    },
+ "renderorder":"right-down",
+ "tileheight":32,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "image":"..\/phase-2.png",
+         "imageheight":448,
+         "imagewidth":800,
+         "margin":0,
+         "name":"phase-2",
+         "properties":
+            {
+
+            },
+         "spacing":0,
+         "tilecount":350,
+         "tileheight":32,
+         "tilewidth":32
+        }],
+ "tilewidth":32,
+ "version":1,
+ "width":100
+}

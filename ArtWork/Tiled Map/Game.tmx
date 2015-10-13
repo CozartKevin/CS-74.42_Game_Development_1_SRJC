@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="32" tileheight="32" nextobjectid="6">
+ <tileset firstgid="1" name="phase-2" tilewidth="32" tileheight="32" tilecount="350">
+  <image source="../phase-2.png" width="800" height="448"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="100" height="100" offsetx="0" offsety="180">
+  <data encoding="base64" compression="zlib">
+   eJztw0ENADAIBDB8YGM25t8OJvZguTZpFQAAL3X4bU74bW54AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD+MFwiJwE=
+  </data>
+ </layer>
+</map>
